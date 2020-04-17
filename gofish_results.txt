@@ -1,0 +1,395 @@
+player 1 is: Nik
+player 2 is: Michael
+
+Welcome to high stakes (my grade lol) Go Fish!  The cards are all shuffled... 
+Each player has been dealt their starting 7 cards! 
+Nik's cards are: 2h 4s 8h 6d 4h 6c 9c 
+Michael's cards are: 3d 9h 10c 4d 7h 6s As 
+
+Both players are booking their dealt pairs
+
+Nik's remaining cards are: 2h 8h 9c 
+Michael's remaining cards are: 3d 9h 10c 4d 7h 6s As 
+Nik's starting books are: 4s 4h 6d 6c 
+Michael's starting books are: 
+Nik's turn
+Nik asks - Do you have a 8?
+Michael says - Go Fish!
+Nik draws 5d
+
+Nik's hand is: 2h 8h 9c 5d 
+Michael's hand is: 3d 9h 10c 4d 7h 6s As 
+Nik's books: 4s 4h 6d 6c 
+Michael's books: 
+
+Michael's turn
+Michael asks - Do you have a 3?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Kh
+
+Nik's hand is: 2h 8h 9c 5d 
+Michael's hand is: 3d 9h 10c 4d 7h 6s As Kh 
+Nik's books: 4s 4h 6d 6c 
+Michael's books: 
+
+Nik's turn
+Nik asks - Do you have a 9?
+Michael says - Go Fish!
+Nik draws 8d
+
+Nik's hand is: 2h 9c 5d 
+Michael's hand is: 3d 9h 10c 4d 7h 6s As Kh 
+Nik's books: 4s 4h 6d 6c 8h 8d 
+Michael's books: 
+
+Michael's turn
+Michael asks - Do you have a 10?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Ac
+
+Nik's hand is: 2h 9c 5d 
+Michael's hand is: 3d 9h 10c 4d 7h 6s Kh 
+Nik's books: 4s 4h 6d 6c 8h 8d 
+Michael's books: As Ac 
+
+Nik's turn
+Nik asks - Do you have a 9?
+Michael says - Go Fish!
+Nik draws 2c
+
+Nik's hand is: 9c 5d 
+Michael's hand is: 3d 9h 10c 4d 7h 6s Kh 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 
+Michael's books: As Ac 
+
+Michael's turn
+Michael asks - Do you have a 3?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 9d
+
+Nik's hand is: 9c 5d 
+Michael's hand is: 3d 10c 4d 7h 6s Kh 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 
+Michael's books: As Ac 9h 9d 
+
+Nik's turn
+Nik asks - Do you have a 9?
+Michael says - Go Fish!
+Nik draws 5c
+
+Nik's hand is: 9c 
+Michael's hand is: 3d 10c 4d 7h 6s Kh 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 
+Michael's books: As Ac 9h 9d 
+
+Michael's turn
+Michael asks - Do you have a 6?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Ad
+
+Nik's hand is: 9c 
+Michael's hand is: 3d 10c 4d 7h 6s Kh Ad 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 
+Michael's books: As Ac 9h 9d 
+
+Nik's turn
+Nik asks - Do you have a 9?
+Michael says - Go Fish!
+Nik draws Ah
+
+Nik's hand is: 9c Ah 
+Michael's hand is: 3d 10c 4d 7h 6s Kh Ad 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 
+Michael's books: As Ac 9h 9d 
+
+Michael's turn
+Michael asks - Do you have a 3?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 7d
+
+Nik's hand is: 9c Ah 
+Michael's hand is: 3d 10c 4d 6s Kh Ad 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 
+Michael's books: As Ac 9h 9d 7h 7d 
+
+Nik's turn
+Nik asks - Do you have a 9?
+Michael says - Go Fish!
+Nik draws 9s
+
+Nik's hand is: Ah 
+Michael's hand is: 3d 10c 4d 6s Kh Ad 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 
+
+Michael's turn
+Michael asks - Do you have a K?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Qh
+
+Nik's hand is: Ah 
+Michael's hand is: 3d 10c 4d 6s Kh Ad Qh 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 
+
+Nik's turn
+Nik asks - Do you have a A?
+Michael says - Go Fish!
+Nik draws 4c
+
+Nik's hand is: Ah 4c 
+Michael's hand is: 3d 10c 4d 6s Kh Ad Qh 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 
+
+Michael's turn
+Michael asks - Do you have a 3?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 6h
+
+Nik's hand is: Ah 4c 
+Michael's hand is: 3d 10c 4d Kh Ad Qh 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h 
+
+Nik's turn
+Nik asks - Do you have a A?
+Michael says - Go Fish!
+Nik draws 8s
+
+Nik's hand is: Ah 4c 8s 
+Michael's hand is: 3d 10c 4d Kh Ad Qh 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h 
+
+Michael's turn
+Michael asks - Do you have a A?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 2s
+
+Nik's hand is: Ah 4c 8s 
+Michael's hand is: 3d 10c 4d Kh Ad Qh 2s 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h 
+
+Nik's turn
+Nik asks - Do you have a 4?
+Michael says - Go Fish!
+Nik draws Qd
+
+Nik's hand is: Ah 4c 8s Qd 
+Michael's hand is: 3d 10c 4d Kh Ad Qh 2s 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h 
+
+Michael's turn
+Michael asks - Do you have a 3?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Kd
+
+Nik's hand is: Ah 4c 8s Qd 
+Michael's hand is: 3d 10c 4d Ad Qh 2s 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd 
+
+Nik's turn
+Nik asks - Do you have a 8?
+Michael says - Go Fish!
+Nik draws 7s
+
+Nik's hand is: Ah 4c 8s Qd 7s 
+Michael's hand is: 3d 10c 4d Ad Qh 2s 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd 
+
+Michael's turn
+Michael asks - Do you have a Q?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Js
+
+Nik's hand is: Ah 4c 8s Qd 7s 
+Michael's hand is: 3d 10c 4d Ad Qh 2s Js 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd 
+
+Nik's turn
+Nik asks - Do you have a 7?
+Michael says - Go Fish!
+Nik draws 5s
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 
+Michael's hand is: 3d 10c 4d Ad Qh 2s Js 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd 
+
+Michael's turn
+Michael asks - Do you have a 3?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Qs
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 
+Michael's hand is: 3d 10c 4d Ad 2s Js 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 
+
+Nik's turn
+Nik asks - Do you have a 7?
+Michael says - Go Fish!
+Nik draws 3c
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 3c 
+Michael's hand is: 3d 10c 4d Ad 2s Js 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 
+
+Michael's turn
+Michael asks - Do you have a 2?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 8c
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 3c 
+Michael's hand is: 3d 10c 4d Ad 2s Js 8c 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 
+
+Nik's turn
+Nik asks - Do you have a A?
+Michael says - Go Fish!
+Nik draws Jc
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 3c Jc 
+Michael's hand is: 3d 10c 4d Ad 2s Js 8c 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 
+
+Michael's turn
+Michael asks - Do you have a 3?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 10h
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 3c Jc 
+Michael's hand is: 3d 4d Ad 2s Js 8c 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Nik's turn
+Nik asks - Do you have a 8?
+Michael says - Go Fish!
+Nik draws 3h
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s Jc 
+Michael's hand is: 3d 4d Ad 2s Js 8c 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Michael's turn
+Michael asks - Do you have a J?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 10d
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s Jc 
+Michael's hand is: 3d 4d Ad 2s Js 8c 10d 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Nik's turn
+Nik asks - Do you have a A?
+Michael says - Go Fish!
+Nik draws 2d
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s Jc 2d 
+Michael's hand is: 3d 4d Ad 2s Js 8c 10d 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Michael's turn
+Michael asks - Do you have a 3?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 7c
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s Jc 2d 
+Michael's hand is: 3d 4d Ad 2s Js 8c 10d 7c 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Nik's turn
+Nik asks - Do you have a 8?
+Michael says - Go Fish!
+Nik draws Jh
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 2d 
+Michael's hand is: 3d 4d Ad 2s Js 8c 10d 7c 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h Jc Jh 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Michael's turn
+Michael asks - Do you have a A?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 5h
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 2d 
+Michael's hand is: 3d 4d Ad 2s Js 8c 10d 7c 5h 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h Jc Jh 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Nik's turn
+Nik asks - Do you have a A?
+Michael says - Go Fish!
+Nik draws 10s
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 2d 10s 
+Michael's hand is: 3d 4d Ad 2s Js 8c 10d 7c 5h 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h Jc Jh 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Michael's turn
+Michael asks - Do you have a 4?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Qc
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 2d 10s 
+Michael's hand is: 3d 4d Ad 2s Js 8c 10d 7c 5h Qc 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h Jc Jh 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Nik's turn
+Nik asks - Do you have a 8?
+Michael says - Go Fish!
+Nik draws Jd
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 2d 10s Jd 
+Michael's hand is: 3d 4d Ad 2s Js 8c 10d 7c 5h Qc 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h Jc Jh 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 
+
+Michael's turn
+Michael asks - Do you have a J?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws 3s
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 2d 10s Jd 
+Michael's hand is: 4d Ad 2s Js 8c 10d 7c 5h Qc 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h Jc Jh 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 3d 3s 
+
+Nik's turn
+Nik asks - Do you have a 4?
+Michael says - Go Fish!
+Nik draws Kc
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 2d 10s Jd Kc 
+Michael's hand is: 4d Ad 2s Js 8c 10d 7c 5h Qc 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h Jc Jh 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 3d 3s 
+
+Michael's turn
+Michael asks - Do you have a A?
+Nik says - Sux 2 suck, Go Fish!
+Michael draws Ks
+
+Nik's hand is: Ah 4c 8s Qd 7s 5s 2d 10s Jd Kc 
+Michael's hand is: 4d Ad 2s Js 8c 10d 7c 5h Qc Ks 
+Nik's books: 4s 4h 6d 6c 8h 8d 2h 2c 5d 5c 9c 9s 3c 3h Jc Jh 
+Michael's books: As Ac 9h 9d 7h 7d 6s 6h Kh Kd Qh Qs 10c 10h 3d 3s 
+
+The game between Nik and Michael ends in a draw!
